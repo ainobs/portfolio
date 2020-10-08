@@ -1,1 +1,1 @@
-# portfolio project still under development
+# portfolio project still in development phase
