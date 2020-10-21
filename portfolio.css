@@ -161,3 +161,8 @@ li {
             align-items: center;
     }
 }
+@media screen and (max-width:550px) {
+    p {
+        font-size: 10px;
+    }
+}
